@@ -3,7 +3,7 @@
 
 ## Key Python Modules Used
 - Flask: micro-framework for web application development
-- SQLAlchemy - ORM (Object Relational Mapper)
+- SQLAlchemy - ORM Object Relational Mapper
 - Flask-Bcrypt - password hashing
 - Flask-Login - support for user management
 - Flask-WTF - simplifies forms
